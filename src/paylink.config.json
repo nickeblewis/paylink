@@ -2,19 +2,19 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Nick Lewis",
+    "description": "Frontend web developer and techie",
+    "alt": "Photo of Nick Lewis",
+    "hero": "./images/nick-lewis.png"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.vercel.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:nickeblewis@gmail.com" },
+    { "label": "Link", "value": "bx-link", "link": "https://nicklewis.blog" },
+    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/nickeblewis" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/nicklewis" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/nicklewis" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/nicklewisphotography" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -26,15 +26,22 @@
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
     { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
     { "label": "YouTube", "value": "bxl-youtube", "link": "" },
-    { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" }
+    { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
+    { "label": "Mastodon", "value": "bxl-mastodon", "link": "https://octodon.social/@nicklewis" }
   ],
 
   "Payments": [
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qwjruyw0cp5c34psfnqx3gtm7juwwwm56l5hcsu",
       "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "hive",
+      "label": "Hive",
+      "value": "@nicklewis",
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
       "id": "busd",
@@ -57,7 +64,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0xfcFf1F2250266C0Fdab26186eA22EE164e4d2d9F",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -69,7 +76,7 @@
     {
       "id": "paypal",
       "label": "Paypal",
-      "value": "",
+      "value": "https://paypal.me/nickeblewis?country.x=GB&locale.x=en_GB",
       "img": "./images/payments/paypal.svg"
     },
     {
@@ -81,7 +88,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
