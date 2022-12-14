@@ -7,6 +7,6 @@ export default defineConfig({
   // base to the name of your repository except if the repository
   // is named <username>.github.io, in that case, you can leave
   // the line commented or set the base to '/'
-  // base: '/paylink/',
+  base: '/paylink/',
   plugins: [react()]
 })
